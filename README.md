@@ -12,7 +12,6 @@ What? That's how I did it...
 
 **Hope you had fun!** and _I know I did_
 
-[Link](url) and ![Image](src)
-```
+
 
 
