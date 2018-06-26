@@ -10,7 +10,9 @@ We're gonna make a blanket today!
 What? That's how I did it...
 
 
-**Hope you had fun!** and _I know I did_
+**Well, good luck!** 
+
+_Just kidding, it's gonna take some time._
 
 
 
