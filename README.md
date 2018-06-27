@@ -1,3 +1,5 @@
+![alt text](/my-photo.png)
+
 # Welcome to Kirby's Korner!
 
 We're gonna crochet a blanket today!
@@ -14,7 +16,7 @@ What? That's how I did it...
 
 _Just kidding, it's gonna take some time._
 
-![alt text](/my-photo.png)
+
 
 
 
