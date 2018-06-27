@@ -1,6 +1,6 @@
 # Welcome to Kirby's Korner!
 
-We're gonna make a blanket today!
+We're gonna crochet a blanket today!
 
 ## How to make a blanket:
 
@@ -13,6 +13,8 @@ What? That's how I did it...
 **Well, good luck!** 
 
 _Just kidding, it's gonna take some time._
+
+![alt text](https://raw.githubusercontent.com/iwilliams83/kirbys-korner/branch/path/to/img.png)
 
 
 
