@@ -14,7 +14,7 @@ What? That's how I did it...
 
 _Just kidding, it's gonna take some time._
 
-![alt text](https://raw.githubusercontent.com/iwilliams83/kirbys-korner/master/my-photo.png
+![alt text](https://github.com/iwilliams83/Kirbys-Korner/blob/master/my-photo.png)
 
 
 
