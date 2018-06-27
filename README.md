@@ -17,11 +17,9 @@ _Just kidding, it's gonna take some time._
 
 Here's a blanket that I made recently:
 
-![full blanket](/blanket-1.jpg =450x500)
+<img src="blanket-1.jpg" width="500" height="600">
 
-![blanket detail](/blanket-2.jpg =450x350)
-
-
+<img src="blanket-2.jpg" width="500" height="400">
 
 
 
