@@ -17,9 +17,9 @@ _Just kidding, it's gonna take some time._
 
 Here's a blanket that I made recently:
 
-![full blanket](/blanket-1.jpg)
+![full blanket](/blanket-1.jpg =450x500)
 
-![blanket detail](/blanket-2.jpg)
+![blanket detail](/blanket-2.jpg =450x350)
 
 
 
