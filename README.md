@@ -1,4 +1,3 @@
-![my photo](/my-photo.png)
 
 # Welcome to Kirby's Korner!
 **Side Note: This is just a test page**
